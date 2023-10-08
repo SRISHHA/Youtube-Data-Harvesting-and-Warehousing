@@ -8,7 +8,7 @@ This Project actually performs ETL --->Extract,Transform,Load
 
 
 FLOW OF PROJECT
-1.Collection Of Youtube Data through Google API
-2.Migration Of Data into MongoDB
-3.Transformation of Data from MongoDB into SQL and performing Data Analysis
+1.Collection Of Youtube Data through Google API.
+2.Migration Of Data into MongoDB.
+3.Transformation of Data from MongoDB into SQL and performing Data Analysis.
 To make it more User-Freindly this project makes use of Streamlit to run it as a web Application locally.
