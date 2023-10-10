@@ -1,5 +1,5 @@
 # Youtube-Data-Harvesting-and-Warehousing
-This project aims to build a user friendly streamlit application which helps users to scrape data from Youtube using Google API when users provide the Channelid and then migrates to MongoDB. Finally it performs some Data Analysis by migration of Data to SQL.
+This project aims to build a user friendly streamlit application which helps users to scrape data from Youtube using Google API when users provide the Channelid and then migrates to MongoDB. Finally it performs some Data Analysis by migration of Data to SQL.Visualisations are also performed with data in order to make it more insightful using matplotlib and seaborn.
 
 This Project actually performs ETL --->Extract,Transform,Load
 1.Extraction of data is done by Google API to scrape data about that particular Youtube Channel
